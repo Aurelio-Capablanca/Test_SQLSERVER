@@ -1,0 +1,222 @@
+[
+  {
+    "nameEmployee": "Brian",
+    "lastNameEmployee": "Allen",
+    "codeEmployee": "9999",
+    "internalPhoneEmployee": "(123) 456-9012",
+    "emailEmployee": "brian.allen@example.com",
+    "creatorEmployee": 22,
+    "dateCreated": "2023-10-15T09:00:00",
+    "departmentEmployee": 1,
+    "roleEmployee": 6
+  },
+  {
+    "nameEmployee": "Megan",
+    "lastNameEmployee": "King",
+    "codeEmployee": "0000",
+    "internalPhoneEmployee": "(234) 567-0123",
+    "emailEmployee": "megan.king@example.com",
+    "creatorEmployee": 23,
+    "dateCreated": "2023-10-16T10:15:00",
+    "departmentEmployee": 2,
+    "roleEmployee": 7
+  },
+  {
+    "nameEmployee": "Brandon",
+    "lastNameEmployee": "Walker",
+    "codeEmployee": "1111",
+    "internalPhoneEmployee": "(345) 678-1234",
+    "emailEmployee": "brandon.walker@example.com",
+    "creatorEmployee": 24,
+    "dateCreated": "2023-10-17T12:30:00",
+    "departmentEmployee": 3,
+    "roleEmployee": 8
+  },
+  {
+    "nameEmployee": "Victoria",
+    "lastNameEmployee": "Wright",
+    "codeEmployee": "2222",
+    "internalPhoneEmployee": "(456) 789-2345",
+    "emailEmployee": "victoria.wright@example.com",
+    "creatorEmployee": 25,
+    "dateCreated": "2023-10-18T13:45:00",
+    "departmentEmployee": 4,
+    "roleEmployee": 9
+  },
+  {
+    "nameEmployee": "Paul",
+    "lastNameEmployee": "Green",
+    "codeEmployee": "3333",
+    "internalPhoneEmployee": "(567) 890-3456",
+    "emailEmployee": "paul.green@example.com",
+    "creatorEmployee": 26,
+    "dateCreated": "2023-10-19T15:00:00",
+    "departmentEmployee": 5,
+    "roleEmployee": 10
+  },
+  {
+    "nameEmployee": "Sophia",
+    "lastNameEmployee": "Edwards",
+    "codeEmployee": "4444",
+    "internalPhoneEmployee": "(678) 901-4567",
+    "emailEmployee": "sophia.edwards@example.com",
+    "creatorEmployee": 27,
+    "dateCreated": "2023-10-20T09:30:00",
+    "departmentEmployee": 1,
+    "roleEmployee": 6
+  },
+  {
+    "nameEmployee": "Ryan",
+    "lastNameEmployee": "Collins",
+    "codeEmployee": "5555",
+    "internalPhoneEmployee": "(789) 012-5678",
+    "emailEmployee": "ryan.collins@example.com",
+    "creatorEmployee": 28,
+    "dateCreated": "2023-10-21T11:15:00",
+    "departmentEmployee": 2,
+    "roleEmployee": 7
+  },
+  {
+    "nameEmployee": "Ashley",
+    "lastNameEmployee": "Stewart",
+    "codeEmployee": "6666",
+    "internalPhoneEmployee": "(890) 123-6789",
+    "emailEmployee": "ashley.stewart@example.com",
+    "creatorEmployee": 29,
+    "dateCreated": "2023-10-22T14:00:00",
+    "departmentEmployee": 3,
+    "roleEmployee": 8
+  },
+  {
+    "nameEmployee": "Eric",
+    "lastNameEmployee": "Morris",
+    "codeEmployee": "7777",
+    "internalPhoneEmployee": "(901) 234-7890",
+    "emailEmployee": "eric.morris@example.com",
+    "creatorEmployee": 30,
+    "dateCreated": "2023-10-23T15:45:00",
+    "departmentEmployee": 4,
+    "roleEmployee": 9
+  },
+  {
+    "nameEmployee": "Laura",
+    "lastNameEmployee": "Rogers",
+    "codeEmployee": "8888",
+    "internalPhoneEmployee": "(012) 345-8901",
+    "emailEmployee": "laura.rogers@example.com",
+    "creatorEmployee": 31,
+    "dateCreated": "2023-10-24T16:30:00",
+    "departmentEmployee": 5,
+    "roleEmployee": 10
+  },
+  {
+    "nameEmployee": "Joshua",
+    "lastNameEmployee": "Reed",
+    "codeEmployee": "9999",
+    "internalPhoneEmployee": "(123) 456-9012",
+    "emailEmployee": "joshua.reed@example.com",
+    "creatorEmployee": 32,
+    "dateCreated": "2023-10-25T10:45:00",
+    "departmentEmployee": 1,
+    "roleEmployee": 6
+  },
+  {
+    "nameEmployee": "Hannah",
+    "lastNameEmployee": "Cook",
+    "codeEmployee": "0000",
+    "internalPhoneEmployee": "(234) 567-0123",
+    "emailEmployee": "hannah.cook@example.com",
+    "creatorEmployee": 33,
+    "dateCreated": "2023-10-26T12:00:00",
+    "departmentEmployee": 2,
+    "roleEmployee": 7
+  },
+  {
+    "nameEmployee": "Ethan",
+    "lastNameEmployee": "Morgan",
+    "codeEmployee": "1111",
+    "internalPhoneEmployee": "(345) 678-1234",
+    "emailEmployee": "ethan.morgan@example.com",
+    "creatorEmployee": 34,
+    "dateCreated": "2023-10-27T13:15:00",
+    "departmentEmployee": 3,
+    "roleEmployee": 8
+  },
+  {
+    "nameEmployee": "Isabella",
+    "lastNameEmployee": "Bell",
+    "codeEmployee": "2222",
+    "internalPhoneEmployee": "(456) 789-2345",
+    "emailEmployee": "isabella.bell@example.com",
+    "creatorEmployee": 35,
+    "dateCreated": "2023-10-28T14:30:00",
+    "departmentEmployee": 4,
+    "roleEmployee": 9
+  },
+  {
+    "nameEmployee": "Adam",
+    "lastNameEmployee": "Murphy",
+    "codeEmployee": "3333",
+    "internalPhoneEmployee": "(567) 890-3456",
+    "emailEmployee": "adam.murphy@example.com",
+    "creatorEmployee": 36,
+    "dateCreated": "2023-10-29T15:45:00",
+    "departmentEmployee": 5,
+    "roleEmployee": 10
+  },
+  {
+    "nameEmployee": "Madison",
+    "lastNameEmployee": "Brooks",
+    "codeEmployee": "4444",
+    "internalPhoneEmployee": "(678) 901-4567",
+    "emailEmployee": "madison.brooks@example.com",
+    "creatorEmployee": 37,
+    "dateCreated": "2023-10-30T09:00:00",
+    "departmentEmployee": 1,
+    "roleEmployee": 6
+  },
+  {
+    "nameEmployee": "Samuel",
+    "lastNameEmployee": "Sanders",
+    "codeEmployee": "5555",
+    "internalPhoneEmployee": "(789) 012-5678",
+    "emailEmployee": "samuel.sanders@example.com",
+    "creatorEmployee": 38,
+    "dateCreated": "2023-10-31T11:15:00",
+    "departmentEmployee": 2,
+    "roleEmployee": 7
+  },
+  {
+    "nameEmployee": "Emma",
+    "lastNameEmployee": "Price",
+    "codeEmployee": "6666",
+    "internalPhoneEmployee": "(890) 123-6789",
+    "emailEmployee": "emma.price@example.com",
+    "creatorEmployee": 39,
+    "dateCreated": "2023-11-01T13:30:00",
+    "departmentEmployee": 3,
+    "roleEmployee": 8
+  },
+  {
+    "nameEmployee": "Andrew",
+    "lastNameEmployee": "Woods",
+    "codeEmployee": "7777",
+    "internalPhoneEmployee": "(901) 234-7890",
+    "emailEmployee": "andrew.woods@example.com",
+    "creatorEmployee": 40,
+    "dateCreated": "2023-11-02T15:45:00",
+    "departmentEmployee": 4,
+    "roleEmployee": 9
+  },
+  {
+    "nameEmployee": "Olivia",
+    "lastNameEmployee": "Bennett",
+    "codeEmployee": "8888",
+    "internalPhoneEmployee": "(012) 345-8901",
+    "emailEmployee": "olivia.bennett@example.com",
+    "creatorEmployee": 41,
+    "dateCreated": "2023-11-03T16:30:00",
+    "departmentEmployee": 5,
+    "roleEmployee": 10
+  }
+]

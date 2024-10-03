@@ -1,0 +1,20 @@
+//  private static void testConnection() {
+//    Transaction transaction = null;
+//    try (Session session = ConnectionApplication.getSessionFactory().openSession()) {
+//      transaction = session.beginTransaction();
+//      NativeQuery query = session.createNativeQuery("select count(id_employee) from Employee");
+//      Integer count = (Integer) query.uniqueResult();
+//      System.out.println("ConnectionApplication successful! Number of users in the database: " + count);
+//      transaction.commit();
+//    } catch (Exception e) {
+//      System.err.println("ConnectionApplication failed: " + e.getMessage());
+//      //e.printStackTrace();
+////      if (transaction != null)
+////        transaction.rollback(); // Rollback if something goes wrong
+//    }
+//  }
+//
+//  // Ensure to call this when the application is completely done with database operations
+//  public static void closeConnection() {
+//    ConnectionApplication.shutdown();
+//  }

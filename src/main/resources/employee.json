@@ -1,0 +1,11 @@
+{
+  "nameEmployee": "John",
+  "lastNameEmployee": "Doe",
+  "codeEmployee": "EMP001",
+  "internalPhoneEmployee": "(123) 456-7890",
+  "emailEmployee": "john.doe@example.com",
+  "creatorEmployee": 1,
+  "dateCreated": "2024-09-30T10:30:00",
+  "departmentEmployee": 2,
+  "roleEmployee": 1
+}

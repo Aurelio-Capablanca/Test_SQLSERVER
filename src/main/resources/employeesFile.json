@@ -1,0 +1,24 @@
+[
+  {
+    "nameEmployee": "John",
+    "lastNameEmployee": "Doe",
+    "codeEmployee": "EMP001",
+    "internalPhoneEmployee": "(123) 456-7890",
+    "emailEmployee": "john.doe@example.com",
+    "creatorEmployee": 1,
+    "dateCreated": "2024-09-30T10:30:00",
+    "departmentEmployee": 2,
+    "roleEmployee": 9
+  },
+  {
+    "nameEmployee": "Jane",
+    "lastNameEmployee": "Smith",
+    "codeEmployee": "EMP002",
+    "internalPhoneEmployee": "(987) 654-3210",
+    "emailEmployee": "jane.smith@example.com",
+    "creatorEmployee": 1,
+    "dateCreated": "2024-09-30T10:45:00",
+    "departmentEmployee": 3,
+    "roleEmployee": 9
+  }
+]
